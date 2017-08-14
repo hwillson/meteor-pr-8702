@@ -12,7 +12,7 @@ Test app for PR https://github.com/meteor/meteor/pull/8702.
 2. `cd meteor-pr-8702/socket-test`
 3. `[PR 8702 meteor checkout]/meteor build ../build/`
 4. `cd ../build/; tar -xzvf socket-test.tar.gz`
-5. `cd bundle/programs/server; meteor npm i`
+5. `cd bundle/programs/server; [PR 8702 meteor checkout]/meteor npm i`
 
 ## Running
 
